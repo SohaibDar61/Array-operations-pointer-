@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601990758 source:s:\c files\#array\array operations\separate odd & even\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602143297 source:s:\c files\#array\array operations\revese numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

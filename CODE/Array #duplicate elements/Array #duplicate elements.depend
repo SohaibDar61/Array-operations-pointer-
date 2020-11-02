@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1600604230 source:s:\c files\array #duplicate elements\main.c
+	<stdio.h>
+

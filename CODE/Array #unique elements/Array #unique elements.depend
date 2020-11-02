@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600597990 source:s:\c files\array #unique elements\main.c
+	<stdio.h>
+
+1600598429 source:s:\c files\#array\array operations\array #unique elements\main.c
+	<stdio.h>
+

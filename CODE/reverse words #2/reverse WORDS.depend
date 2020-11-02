@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602148139 source:s:\c files\#array\array operations\reverse words\main.c
+	<stdio.h>
+
+1602148139 source:s:\c files\#array\code\reverse words #2\main.c
+	<stdio.h>
+
